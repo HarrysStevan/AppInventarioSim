@@ -1,7 +1,0 @@
-{
-  "name": "inventarioSimApp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
